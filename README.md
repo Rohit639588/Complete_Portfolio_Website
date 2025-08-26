@@ -25,5 +25,5 @@ It highlights my profile, skills, projects, services, and contact details.
 1. Download or clone the repository
 2. Open `index.html` in any web browser
 
-## 📬 Contact
+##  Contact
 For any queries or collaboration, feel free to connect!
